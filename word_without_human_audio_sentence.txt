@@ -1,0 +1,5359 @@
+17243,Africa
+17244,African
+17298,America
+17299,American
+17330,Antarctic
+17343,April
+17347,Arabian
+17377,Asia
+17378,Asian
+17392,Atlantic
+17399,August
+17402,Australia
+17403,Australian
+17497,Bible
+17538,Britain
+17633,Canada
+17634,Canadian
+17699,Chinese
+17719,Christ
+17724,Christmas
+17860,December
+17932,Easter
+17974,England
+17976,English
+18003,Europe
+18004,European
+18038,Fahrenheit
+18082,French
+18090,Friday
+18119,General Secretary
+18133,German
+18135,Germany
+18147,God
+18182,Greek
+18361,I
+18364,I bet
+18441,India
+18442,Indian
+18460,Internet
+18545,Italian
+18564,January
+18565,Japan
+18586,Jewish
+18631,July
+18632,June
+18841,Make hay while the sun shines.
+18861,March
+18884,Marxist
+18892,May
+18965,Modern English
+18966,Modern Times
+18971,Monday
+19061,Negro
+19150,November
+19173,October
+19320,Polish
+19428,Roman
+19447,Russian
+19509,Saturday
+19547,September
+19617,Spanish
+19658,Sunday
+19671,Swiss
+19811,Thursday
+19851,Tuesday
+19856,Turkey
+19979,Wednesday
+20139,a
+20214,a few
+20224,a fund of
+20232,a good deal
+20235,a good job
+20236,a good many
+20241,a graduate
+20245,a great deal
+20246,a great deal of
+20247,a great many
+20248,a great number of
+20250,a group of
+20252,a half hour
+20256,a heap of
+20274,a law school
+20303,a medical college
+20304,a medical team
+20332,a pair
+20335,a pair of scissors
+20340,a party in power
+20347,a piece of cake
+20350,a piece of string
+20354,a point of view
+20355,a police station
+20363,a primary school
+20393,a severe winter
+20398,a sheet of paper
+20414,a social system
+20418,a space station
+20430,a string
+20437,a strong evidence
+20449,a thousand
+20485,abandon
+20520,abide by
+20523,ability
+20528,able
+20533,abnormal
+20539,aboard
+20556,about
+20562,above
+20563,above all
+20578,abroad
+20586,absence
+20588,absent
+20594,absolute
+20596,absolutely
+20599,absorb
+20615,abstract
+20628,abundant
+20629,abuse
+20635,academic
+20637,academy
+20647,accent
+20649,accept
+20667,access
+20682,accident
+20688,accidental
+20698,accommodation
+20710,accompany
+20712,accomplish
+20715,accord
+20716,accordance
+20718,according to
+20719,accordingly
+20723,account
+20759,accountant
+20785,accumulate
+20789,accuracy
+20790,accurate
+20795,accuse
+20804,accustomed
+20811,ache
+20812,achieve
+20814,achievement
+20818,acid
+20827,acknowledge
+20844,acquaintance
+20848,acquire
+20850,acquisition
+20859,acre
+20868,across
+20874,act
+20884,action
+20898,active
+20909,activity
+20910,actor
+20911,actress
+20912,actual
+20915,actually
+20926,acute
+20929,ad
+20939,adapt
+20951,add
+20973,addition
+20976,additional
+20982,address
+20998,adequate
+21018,adjust
+21027,administration
+21038,admire
+21041,admission
+21043,admit
+21053,adopt
+21057,adore
+21067,adult
+21075,advance
+21084,advanced
+21088,advantage
+21092,adventure
+21105,advertise
+21106,advertisement
+21112,advice
+21116,advisable
+21117,advise
+21123,advocate
+21147,affair
+21148,affect
+21152,affection
+21172,afford
+21185,afraid
+21188,after
+21192,after all
+21195,after hours
+21207,afternoon
+21210,afterward
+21211,afterwards
+21212,again
+21215,against
+21221,age
+21226,agency
+21228,agent
+21245,aggressive
+21265,ago
+21272,agree
+21281,agree with
+21283,agreeable
+21285,agreement
+21287,agriculture
+21294,ahead
+21295,ahead of
+21297,ahead of time
+21299,aid
+21307,aim
+21312,air
+21337,aircraft
+21347,airline
+21350,airplane
+21351,airport
+21367,alarm
+21377,album
+21380,alcohol
+21390,alert
+21423,alike
+21427,alive
+21437,all alone
+21438,all along
+21440,all at once
+21443,all day
+21445,all day long
+21446,all in
+21447,all in all
+21450,all night
+21452,all of
+21455,all of a sudden
+21457,all out
+21458,all over
+21462,all over the world
+21471,all the same
+21473,all the time
+21474,all the way
+21475,all the while
+21476,all the year round
+21479,all through
+21483,all to nothing
+21485,all told
+21488,all up
+21489,all very well
+21514,alliance
+21532,allow
+21538,allowance
+21545,alloy
+21553,ally
+21558,almost
+21562,alone
+21563,along
+21565,alongside
+21566,alongside of
+21568,aloud
+21571,alphabet
+21581,already
+21586,alter
+21594,alternative
+21597,although
+21598,altitude
+21600,altogether
+21603,aluminium
+21609,always
+21617,amateur
+21620,amaze
+21626,ambassador
+21634,ambition
+21641,ambulance
+21656,amid
+21670,among
+21681,amount
+21699,amuse
+21708,an
+21717,an average of
+21727,an official statement
+21771,analysis
+21779,analyze
+21789,ancestor
+21792,anchor
+21798,ancient
+21805,and
+21809,and so forth
+21830,angel
+21833,anger
+21834,angle
+21838,angry
+21846,animal
+21856,ankle
+21866,anniversary
+21869,announce
+21871,announcer
+21873,annoy
+21878,annual
+21896,another
+21898,answer
+21956,anticipate
+21975,antique
+21991,anxiety
+21992,anxious
+21994,any
+21995,any less
+21996,any longer
+21999,anybody
+22000,anyhow
+22002,anyone
+22003,anything
+22004,anything but
+22007,anyway
+22008,anywhere
+22011,apart
+22014,apartment
+22039,apologize
+22043,apology
+22059,apparatus
+22061,apparent
+22064,appeal
+22068,appear
+22079,appendix
+22080,appetite
+22083,applaud
+22084,applause
+22085,apple
+22096,applicable
+22098,application
+22112,apply
+22120,appoint
+22122,appointment
+22130,appreciate
+22144,approach
+22149,appropriate
+22152,approval
+22153,approve
+22156,approximate
+22158,approximately
+22200,arch
+22214,architect
+22216,architecture
+22222,arctic
+22229,area
+22240,argue
+22242,argument
+22250,arise
+22256,arithmetic
+22264,arm
+22288,army
+22294,around
+22305,arrange
+22309,arrangement
+22321,arrest
+22326,arrival
+22328,arrive
+22338,arrow
+22360,article
+22366,artificial
+22373,artist
+22375,artistic
+22381,as
+22383,as a consequence
+22384,as a consequence of
+22396,as far as
+22404,as follows
+22405,as for
+22412,as if
+22413,as it happens
+22417,as long as
+22437,as though
+22438,as to
+22473,ash
+22475,ashamed
+22480,aside
+22481,aside from
+22483,ask
+22500,asleep
+22502,aspect
+22526,assemble
+22533,assembly
+22539,assert
+22543,assess
+22551,asset
+22580,assignment
+22587,assist
+22592,assistance
+22593,assistant
+22596,associate
+22600,association
+22607,assume
+22611,assumption
+22612,assurance
+22613,assure
+22640,astronaut
+22644,astronomy
+22655,at
+22664,at a good pace
+22682,at a speed of
+22685,at a time
+22687,at all
+22692,at all hours
+22699,at any moment
+22701,at any rate
+22705,at best
+22710,at ease
+22712,at first
+22721,at half cost
+22725,at high speed
+22729,at intervals
+22731,at large
+22740,at lowest
+22742,at meals
+22745,at most
+22746,at need
+22747,at night
+22753,at once
+22777,at peace
+22786,at sea
+22804,at the beginning
+22805,at the beginning of
+22811,at the center of
+22813,at the cost of
+22822,at the expense of
+22837,at the market
+22838,at the mercy of
+22839,at the moment
+22840,at the most
+22867,at times
+22886,athlete
+22893,atmosphere
+22897,atom
+22899,atomic
+22907,attach
+22909,attach importance to
+22921,attack
+22924,attain
+22927,attempt
+22932,attend
+22934,attend on
+22935,attend to
+22939,attendant
+22940,attention
+22942,attentive
+22952,attitude
+22954,attorney
+22956,attract
+22957,attraction
+22958,attractive
+22963,attribute
+22988,audience
+22989,audio
+23022,aural
+23043,author
+23053,authority
+23058,auto
+23077,automatic
+23089,automobile
+23095,autumn
+23096,auxiliary
+23106,available
+23119,avenue
+23121,average
+23132,avoid
+23142,await
+23144,awake
+23149,award
+23152,aware
+23155,away
+23161,awful
+23164,awkward
+23170,ax
+23172,axe
+23185,baby
+23199,bachelor
+23201,back
+23203,back and forth
+23215,back out
+23235,background
+23266,backward
+23275,bacon
+23276,bacteria
+23282,bad
+23287,badge
+23290,badly
+23298,bag
+23301,baggage
+23309,bait
+23311,bake
+23319,balance
+23327,balcony
+23335,ball
+23343,ballet
+23347,balloon
+23359,bamboo
+23364,ban
+23368,banana
+23370,band
+23375,bandit
+23381,bang
+23389,bank
+23406,bankrupt
+23409,banner
+23410,banquet
+23416,bar
+23433,barber
+23440,bare
+23446,barely
+23447,bargain
+23455,bark
+23460,barn
+23471,barrel
+23477,barrier
+23491,base
+23502,baseball
+23513,basement
+23517,basically
+23519,basin
+23520,basis
+23522,basket
+23524,basketball
+23536,bat
+23543,bath
+23544,bathe
+23549,bathroom
+23558,battery
+23559,battle
+23572,bay
+23576,be
+23587,be about to
+23734,be clear of
+23764,be confident that
+23853,be engaged in
+23859,be equal to
+23892,be friends with
+23903,be glad of
+23911,be good to
+23912,be good to be true
+23961,be in a hole
+23971,be in enthusiasm
+23972,be in fashion
+23979,be in hospital
+23982,be in love with
+23991,be in preparation
+24026,be interested in
+24047,be like
+24087,be nothing to
+24093,be of a size
+24124,be open to
+24190,be short of
+24193,be sick
+24197,be similar to
+24198,be sincere in
+24224,be sure about
+24225,be sure of
+24307,beach
+24313,beam
+24316,bean
+24322,bear
+24347,beard
+24351,bearing
+24355,beast
+24357,beat
+24376,beautiful
+24379,beauty
+24387,because of
+24390,become
+24397,bed
+24416,bee
+24418,beef
+24427,beer
+24438,before
+24447,beg
+24453,beggar
+24456,begin
+24462,beginning
+24468,behalf
+24469,behave
+24472,behavior
+24480,behind
+24494,being
+24503,belief
+24505,believe
+24511,bell
+24523,belong
+24528,beloved
+24529,below
+24530,belt
+24535,bench
+24537,bend
+24542,beneath
+24552,beneficial
+24554,benefit
+24579,berry
+24586,beside
+24590,besides
+24598,best
+24609,bet
+24620,betray
+24624,better
+24628,between
+24641,beyond
+24644,beyond belief
+24675,bicycle
+24676,bid
+24687,big
+24696,bike
+24706,bill
+24722,billion
+24736,bind
+24759,biology
+24778,birth
+24783,birthday
+24790,biscuit
+24796,bit
+24805,bite
+24811,bitter
+24813,bitterly
+24823,black
+24841,blackboard
+24848,blade
+24849,blame
+24862,blank
+24868,blanket
+24880,blast
+24885,blaze
+24895,bleed
+24900,blend
+24903,bless
+24905,blessing
+24910,blind
+24917,blink
+24928,block
+24950,blood
+24966,bloom
+24974,blouse
+24975,blow
+24997,blue
+25025,board
+25035,boast
+25043,boat
+25059,body
+25072,boil
+25077,boiler
+25082,bold
+25090,bolt
+25093,bomb
+25106,bond
+25122,bone
+25140,book
+25142,book down
+25148,book up
+25174,boom
+25180,boost
+25182,boot
+25201,border
+25207,bore
+25212,boring
+25213,born
+25220,borrow
+25223,bosom
+25225,boss
+25236,both
+25238,both sides
+25242,bother
+25247,bottle
+25254,bottom
+25266,bounce
+25271,boundary
+25287,bow
+25294,bowl
+25301,box
+25306,boy
+25329,brain
+25341,brake
+25344,branch
+25351,brand
+25357,brandy
+25360,brass
+25366,brave
+25380,bread
+25384,breadth
+25386,break
+25392,break away from
+25399,break in
+25407,break of
+25415,break out
+25443,breakfast
+25448,breast
+25453,breath
+25456,breathe
+25466,breed
+25469,breeze
+25483,brick
+25487,bride
+25490,bridge
+25491,bridge a gap
+25496,brief
+25502,bright
+25506,brighten
+25513,brim
+25519,bring
+25521,bring about
+25523,bring around
+25524,bring back
+25527,bring down
+25533,bring into
+25549,bring out
+25562,bring to
+25568,bring to life
+25571,bring together
+25574,bring up
+25600,broad
+25607,broadcast
+25625,broken English
+25639,brook
+25640,broom
+25644,brother
+25651,brow
+25653,brown
+25666,brush
+25679,bubble
+25690,bucket
+25697,bud
+25702,budget
+25718,build
+25724,build up
+25728,building
+25737,bulb
+25741,bulk
+25755,bullet
+25773,bump
+25782,bunch
+25783,bundle
+25799,burden
+25801,bureau
+25821,burn
+25825,burn off
+25829,burn out
+25835,burn with
+25844,burst
+25853,burst into tears
+25860,bury
+25861,bus
+25869,bush
+25874,business
+25891,busy
+25897,but
+25898,but for
+25909,butterfly
+25912,button
+25914,button up
+25917,buy
+25927,by
+25929,by accident
+25930,by agreement
+25931,by air
+25937,by and by
+25938,by and large
+25947,by chance
+25948,by choice
+25954,by convention
+25956,by day
+25960,by design
+25962,by far
+25966,by guess
+25972,by intention
+25975,by lack of
+25978,by letter
+25980,by means of
+25981,by mistake
+25985,by night
+25986,by no means
+25997,by sea
+26002,by telephone
+26020,by the way
+26023,by this means
+26028,by turns
+26031,by virtue of
+26032,by way of
+26054,cab
+26058,cabbage
+26059,cabin
+26060,cabinet
+26061,cable
+26082,cafe
+26083,cafeteria
+26085,cage
+26090,cake
+26097,calculate
+26101,calculator
+26104,calendar
+26112,call
+26114,call about
+26116,call attention to
+26118,call back
+26120,call by
+26123,call for
+26131,call in
+26138,call off
+26144,call out
+26155,call up
+26171,calm
+26188,camel
+26191,camera
+26195,camp
+26198,campaign
+26208,can
+26226,canal
+26229,cancel
+26234,cancer
+26237,candidate
+26240,candle
+26244,candy
+26260,cannon
+26270,canoe
+26285,canvas
+26291,cap
+26293,capable
+26298,capacity
+26304,capital
+26347,captain
+26354,captive
+26356,capture
+26359,car
+26371,carbon
+26386,card
+26399,care
+26401,care for
+26404,career
+26409,careful
+26413,careless
+26422,cargo
+26443,carpenter
+26445,carpet
+26447,carriage
+26449,carrier
+26452,carrot
+26454,carry
+26463,carry on
+26465,carry out
+26477,cart
+26483,cartoon
+26489,carve
+26498,case
+26504,cash
+26529,cassette
+26533,cast
+26536,cast aside
+26543,cast off
+26549,cast up
+26556,castle
+26558,casual
+26562,cat
+26567,catalogue
+26577,catch
+26585,catch fire
+26599,catch sight of
+26607,catch up with
+26616,category
+26627,cathedral
+26632,cattle
+26643,cause
+26651,cautious
+26657,cave
+26669,cease
+26676,ceiling
+26679,celebrate
+26689,cell
+26691,cellar
+26698,cement
+26705,cent
+26710,center
+26713,centigrade
+26715,centimetre
+26716,central
+26727,centre
+26736,century
+26747,ceremony
+26748,certain
+26752,certificate
+26769,chain
+26775,chair
+26776,chairman
+26781,chalk
+26783,challenge
+26787,chamber
+26795,champion
+26797,chance
+26798,chance it
+26799,chance on
+26807,change
+26813,change hands
+26830,channel
+26836,chaos
+26839,chap
+26843,chapter
+26845,character
+26852,characteristic
+26862,charge
+26875,charity
+26880,charm
+26883,charming
+26884,chart
+26889,charter
+26894,chase
+26905,chat
+26921,cheap
+26925,cheat
+26926,check
+26931,check in
+26936,check on
+26938,check out
+26939,check over
+26944,check with
+26960,cheek
+26962,cheer
+26965,cheer up
+26968,cheerful
+26977,cheese
+26982,chemical
+26993,chemist
+26995,chemistry
+26999,cheque
+27004,cherry
+27006,chess
+27007,chest
+27013,chew
+27023,chicken
+27027,chief
+27043,childhood
+27044,childish
+27053,chill
+27061,chimney
+27063,chin
+27064,china
+27069,chip
+27086,chocolate
+27087,choice
+27090,choke
+27101,choose
+27105,chop
+27150,church
+27160,cigar
+27163,cigarette
+27173,cinema
+27179,circle
+27182,circuit
+27184,circular
+27186,circulate
+27187,circulation
+27190,circumference
+27197,circumstance
+27202,circus
+27206,cite
+27208,citizen
+27212,city
+27219,civil
+27222,civil law
+27223,civil marriage
+27228,civil war
+27234,civilization
+27241,claim back
+27265,clap
+27268,clarify
+27272,clasp
+27273,class
+27276,classic
+27277,classical
+27280,classification
+27282,classify
+27286,classroom
+27289,clause
+27294,claw
+27295,clay
+27297,clean
+27317,clear
+27319,clear away
+27325,clear of
+27328,clear out
+27330,clear the air
+27358,clever
+27361,click
+27363,client
+27367,cliff
+27371,climate
+27375,climb
+27384,clinic
+27394,cloak
+27397,clock
+27414,close
+27442,cloth
+27443,clothe
+27444,clothes
+27448,clothing
+27451,cloud
+27456,cloudy
+27463,club
+27466,clue
+27469,clumsy
+27488,coach
+27494,coal
+27499,coarse
+27502,coast
+27505,coat
+27522,cock
+27553,coffee
+27579,coil
+27580,coin
+27590,cold
+27607,collapse
+27610,collar
+27621,colleague
+27622,collect
+27627,collection
+27629,collective
+27633,college
+27641,collision
+27651,colonel
+27662,colony
+27663,color
+27684,colour
+27691,column
+27698,comb
+27699,combat
+27702,combination
+27705,combine
+27715,come
+27716,come about
+27717,come across
+27722,come along
+27725,come around
+27727,come away
+27728,come back
+27743,come from
+27744,come in
+27764,come into office
+27776,come off
+27777,come on
+27782,come out
+27787,come round
+27790,come through
+27792,come to
+27796,come to a conclusion
+27809,come to life
+27829,come to the point
+27837,come up to
+27838,come up with
+27843,comedy
+27849,comfort
+27850,comfortable
+27865,command
+27875,commander
+27888,comment
+27896,commerce
+27898,commercial
+27910,commission
+27913,commit
+27918,commitment
+27921,committee
+27925,common
+27946,communicate
+27949,communication
+27960,communism
+27961,communist
+27963,community
+27982,companion
+27986,comparable
+27988,comparative
+27991,compare
+28003,comparison
+28006,compass
+28013,compel
+28024,compete
+28025,compete against
+28026,compete for
+28027,compete with
+28030,competent
+28033,competition
+28034,competitive
+28043,complain
+28056,complete
+28061,complex
+28068,complicated
+28076,component
+28079,compose
+28086,composition
+28090,compound
+28100,comprehension
+28101,comprehensive
+28104,compress
+28113,comprise
+28114,compromise
+28128,computer
+28156,comrade
+28162,conceal
+28165,concede
+28172,concentrate
+28176,concentration
+28180,concept
+28183,concern
+28188,concerning
+28194,concession
+28206,conclude
+28207,conclusion
+28218,concrete
+28227,condemn
+28243,condition
+28263,conduct
+28267,conductor
+28281,conference
+28285,confess
+28292,confidence
+28293,confident
+28301,confine
+28311,conflict
+28318,confront
+28321,confuse
+28324,confusion
+28335,congratulate
+28347,congress
+28361,conjunction
+28366,connect
+28372,connection
+28384,conquer
+28387,conquest
+28390,conscience
+28394,conscious
+28396,consciousness
+28402,consent
+28403,consequence
+28406,consequently
+28407,conservation
+28410,conservative
+28413,consider
+28416,considerable
+28418,considerate
+28420,consideration
+28427,consist
+28433,consistent
+28458,constant
+28468,constitute
+28469,constitution
+28476,construct
+28478,construction
+28490,consult
+28491,consult with
+28501,consume
+28503,consumer
+28512,consumption
+28514,contact
+28518,contain
+28519,container
+28529,contemporary
+28530,contempt
+28536,content
+28547,contest
+28548,contest for
+28558,continent
+28569,continual
+28574,continue
+28580,continuous
+28595,contract
+28608,contradiction
+28611,contrary
+28613,contrast
+28617,contribute
+28618,contribute to
+28621,contribution
+28629,control
+28642,controversial
+28644,controversy
+28661,convenience
+28668,convention
+28669,conventional
+28677,conversation
+28682,conversely
+28683,conversion
+28687,convert
+28698,convey
+28702,convict
+28705,conviction
+28706,convince
+28722,cook
+28737,cool
+28739,cool off
+28748,cooperate
+28751,coordinate
+28755,cop
+28757,cope
+28762,copper
+28767,copy
+28771,copyright
+28779,cordial
+28785,core
+28791,corn
+28794,corner
+28814,corporation
+28823,correct
+28833,correspond
+28836,correspondence
+28839,correspondent
+28840,corresponding
+28843,corridor
+28875,cost
+28890,costly
+28897,cottage
+28898,cotton
+28901,couch
+28904,cough
+28912,council
+28916,counsel
+28921,count
+28924,count as
+28926,count for
+28929,count in
+28942,counter
+28961,country
+28966,countryside
+28967,county
+28969,couple
+28976,courage
+28980,course
+28985,court
+28993,courtyard
+28995,cousin
+29002,cover
+29006,cover up
+29019,cow
+29020,coward
+29039,crack
+29043,crack jokes
+29044,crack up
+29051,craft
+29067,crane
+29073,crash
+29084,crawl
+29091,crazy
+29094,cream
+29099,create
+29105,creative
+29109,creature
+29116,credit
+29151,crew
+29156,cricket
+29159,crime
+29161,criminal
+29162,criminal law
+29174,crisis
+29182,critic
+29183,critical
+29188,criticism
+29189,criticize
+29202,crop
+29206,cross
+29229,crossing
+29239,crow
+29243,crowd
+29249,crown
+29254,crude
+29258,cruel
+29270,crush
+29272,crust
+29290,crystal
+29296,cube
+29297,cubic
+29301,cuckoo
+29303,cucumber
+29307,cue
+29323,cultivate
+29328,culture
+29337,cunning
+29339,cup
+29341,cupboard
+29354,cure
+29359,curiosity
+29360,curious
+29363,curl
+29369,currency
+29370,current
+29390,curriculum
+29395,curse
+29410,curtain
+29417,curve
+29421,cushion
+29427,custom
+29432,customer
+29441,cut
+29450,cut at
+29451,cut away
+29462,cut into
+29468,cut out
+29471,cut short
+29476,cut through
+29504,cycle
+29539,daily
+29543,dairy
+29553,dam
+29555,damage
+29559,damn
+29562,damp
+29567,dance
+29575,danger
+29576,dangerous
+29583,dare
+29585,daring
+29586,dark
+29595,darling
+29598,dash
+29609,data
+29654,date
+29655,date back to
+29662,daughter
+29668,dawn
+29672,day
+29688,daylight
+29699,dead
+29708,deadly
+29711,deaf
+29715,deal
+29716,deal in
+29719,deal with
+29727,dear
+29731,death
+29741,debate
+29760,debt
+29776,decade
+29782,decay
+29788,deceit
+29790,deceive
+29796,decent
+29803,decide
+29806,decided
+29809,decimal
+29818,deck
+29819,deck out
+29825,declaration
+29829,declare
+29834,decline
+29845,decorate
+29856,decrease
+29873,deduce
+29880,deed
+29884,deep
+29889,deepen
+29892,deer
+29913,defeat
+29916,defect
+29920,defence
+29922,defend
+29926,defense
+29945,define
+29947,definite
+29948,definitely
+29981,degree
+29998,delay
+30001,delegate
+30002,delegation
+30003,delete
+30016,deliberate
+30020,delicate
+30023,delicious
+30025,delight
+30042,deliver
+30050,delivery
+30063,demand
+30084,democracy
+30086,democratic
+30101,demonstrate
+30116,denial
+30126,denote
+30128,denounce
+30132,density
+30134,dental
+30135,dentist
+30141,deny
+30147,depart
+30151,department
+30153,departure
+30156,depend
+30165,dependent
+30180,deposit
+30193,depress
+30196,depression
+30198,deprive
+30207,depth
+30211,deputy
+30229,derive
+30244,descend
+30248,descendant
+30252,descent
+30253,describe
+30255,description
+30263,desecrated
+30266,desert
+30271,deserve
+30275,deserving of
+30279,design
+30288,desirable
+30289,desire
+30293,desk
+30306,despair
+30312,desperate
+30317,despise
+30318,despite
+30325,dessert
+30326,destination
+30333,destiny
+30335,destroy
+30337,destruction
+30348,detail
+30351,detect
+30354,detection
+30355,detective
+30366,determination
+30367,determine
+30391,develop
+30398,development
+30405,device
+30410,devil
+30413,devise
+30418,devote
+30427,devotion
+30456,diagram
+30457,dial
+30459,dialect
+30465,dialogue
+30467,diameter
+30472,diamond ring
+30479,diary
+30493,dictate
+30494,dictation
+30499,dictionary
+30507,die
+30519,die out
+30523,diet
+30531,differ
+30533,difference
+30534,different
+30542,difficult
+30543,difficulty
+30549,dig
+30554,digest
+30562,digital
+30607,diligent
+30613,dim
+30616,dimension
+30621,diminish
+30644,dinner
+30653,dip
+30654,dip into
+30663,diplomatic
+30673,direct
+30683,direction
+30686,directly
+30688,director
+30702,dirt
+30703,dirty
+30706,disable
+30711,disadvantage
+30716,disagree
+30723,disappear
+30726,disappoint
+30741,disaster
+30754,disc
+30757,discern
+30761,discharge
+30765,discipline
+30768,disclose
+30793,discount
+30799,discourage
+30806,discover
+30808,discovery
+30824,discuss
+30825,discussion
+30828,disease
+30849,disgrace
+30853,disguise
+30854,disgust
+30858,dish
+30872,dishonour
+30893,disk
+30915,dislike
+30927,dismiss
+30933,disorder
+30957,display
+30975,disposal
+30976,dispose
+30986,dispute
+31025,dissolve
+31032,distance
+31036,distant
+31047,distinct
+31048,distinction
+31051,distinguish
+31072,distress
+31075,distribute
+31077,distribution
+31082,district
+31085,disturb
+31094,ditch
+31106,dive
+31112,diverse
+31122,divide
+31141,division
+31151,do
+31168,do good to
+31229,do without
+31237,dock
+31243,doctor
+31254,document
+31265,documentary
+31279,dog
+31299,doll
+31300,dollar
+31310,dome
+31311,domestic
+31319,dominant
+31320,dominate
+31331,donation
+31335,donkey
+31344,door
+31353,dorm
+31356,dormitory
+31363,dose
+31365,dot
+31376,double
+31398,doubt
+31399,doubtful
+31407,dove
+31411,down
+31440,downstairs
+31443,downtown
+31446,downward
+31452,dozen
+31453,dozens of
+31458,draft
+31463,drag
+31468,dragon
+31474,drain
+31480,drama
+31481,dramatic
+31494,draw
+31506,draw in
+31509,draw on
+31515,draw up
+31521,drawer
+31522,drawing
+31530,dreadful
+31532,dream
+31547,dress
+31551,dress up
+31564,drift
+31567,drill
+31570,drink
+31576,drip
+31578,drip with
+31580,drive
+31593,driver
+31608,drop
+31609,drop by
+31610,drop in
+31611,drop off
+31614,drop out
+31625,drought
+31627,drown
+31637,drug
+31642,drum
+31650,drunk
+31653,dry
+31680,due
+31681,due for
+31683,due to
+31691,dull
+31696,dumb
+31702,dump
+31729,durable
+31731,duration
+31734,during
+31737,dusk
+31739,dust
+31752,duty
+31766,dye
+31768,dying
+31770,dynamic
+31794,e-mail
+31798,each
+31800,each other
+31801,eager
+31804,eagle
+31807,ear
+31815,early
+31816,early and late
+31820,earn
+31825,earnest
+31837,earth
+31845,earthquake
+31849,ease
+31854,ease up
+31857,easily
+31858,east
+31861,eastern
+31862,eastward
+31864,easy
+31868,eat
+31895,echo
+31907,economic
+31911,economical
+31913,economics
+31917,economy
+31928,edge
+31937,edit
+31947,edition
+31948,editor
+31950,editorial
+31952,educate
+31954,education
+31964,effect
+31966,effective
+31977,efficiency
+31978,efficient
+31986,effort
+31996,egg
+32016,eight
+32018,eighteen
+32020,eighth
+32022,eighty
+32024,either
+32033,elaborate
+32037,elastic
+32047,elbow
+32050,elder
+32054,elect
+32055,election
+32063,electric
+32072,electrical
+32076,electricity
+32091,electron
+32093,electronic
+32114,elegant
+32120,element
+32122,elementary
+32126,elephant
+32128,elevate
+32131,elevator
+32132,eleven
+32133,eleventh
+32139,eliminate
+32157,else
+32158,elsewhere
+32182,embarrass
+32186,embassy
+32220,emerge
+32223,emergency
+32233,emigrate
+32241,emit
+32248,emotion
+32249,emotional
+32256,emperor
+32257,emphasis
+32259,emphasize
+32263,empire
+32267,employ
+32269,employee
+32271,employer
+32272,employment
+32278,empty
+32298,enable
+32319,enclose
+32328,encounter
+32329,encourage
+32343,end
+32344,end by
+32370,ending
+32372,endless
+32397,enemy
+32402,energy
+32410,enforce
+32413,engage
+32415,engage for
+32416,engage in
+32420,engagement
+32423,engine
+32425,engineer
+32426,engineering
+32434,enhance
+32443,enjoy
+32454,enlarge
+32469,enormous
+32471,enough
+32478,enrich
+32482,enroll
+32494,ensure
+32509,enterprise
+32511,entertain
+32514,entertainment
+32519,enthusiasm
+32521,enthusiastic
+32525,entire
+32537,entrance
+32556,entry
+32564,envelope
+32570,environment
+32583,envy
+32601,episode
+32613,equal
+32615,equal to
+32616,equality
+32625,equation
+32626,equator
+32636,equip
+32650,equivalent
+32658,era
+32668,erect
+32685,error
+32703,escape
+32718,especially
+32726,essay
+32729,essential
+32730,essential to
+32732,establish
+32734,establishment
+32736,estate
+32744,estimate
+32745,estimate at
+32746,estimate for
+32806,evaluate
+32813,evaporate
+32819,even
+32822,even if
+32827,even though
+32830,evening
+32833,event
+32840,eventually
+32841,ever
+32842,ever since
+32850,every
+32859,every other day
+32866,everybody
+32867,everyday
+32868,everyone
+32869,everything
+32870,everywhere
+32873,evidence
+32874,evident
+32875,evidently
+32876,evil
+32881,evolution
+32897,exact
+32901,exactly
+32903,exaggerate
+32911,examination
+32912,examine
+32915,example
+32921,exceed
+32923,exceedingly
+32924,excel
+32927,excellent
+32928,except
+32929,except for
+32930,exception
+32936,excess
+32943,excessive
+32945,exchange
+32965,excite
+32968,excitement
+32969,exciting
+32975,exclude
+32979,exclusive
+32980,exclusive of
+32983,exclusively
+32999,excursion
+33002,excuse
+33009,execute
+33013,executive
+33024,exercise
+33034,exhaust
+33043,exhibit
+33044,exhibition
+33058,exist
+33059,existence
+33065,exit
+33081,expand
+33089,expansion
+33098,expect
+33103,expectation
+33118,expense
+33120,expensive
+33121,experience
+33124,experiment
+33125,experimental
+33130,expert
+33139,explain
+33141,explanation
+33151,explode
+33153,exploit
+33158,explore
+33160,explosion
+33161,explosive
+33167,export
+33173,expose
+33179,exposure
+33181,express
+33183,expression
+33201,extend
+33211,extension
+33213,extensive
+33216,extent
+33218,exterior
+33221,external
+33238,extra
+33248,extraordinary
+33256,extreme
+33257,extremely
+33274,eye
+33290,eyesight
+33297,fabric
+33308,face to face
+33311,face up to
+33303,face
+33317,facet
+33325,facility
+33328,fact
+33334,factor
+33338,factory
+33342,faculty
+33345,fade
+33354,fail
+33358,failure
+33365,faint
+33368,fair
+33373,fairly
+33376,fairy
+33381,faith
+33382,faithful
+33394,fall back
+33397,fall behind
+33416,fall in with
+33425,fall out
+33434,fall sick
+33436,fall through
+33443,fall victim to
+33453,false
+33464,fame
+33467,familiar
+33472,family
+33482,famine
+33485,famous
+33487,fan
+33496,fancy
+33506,fantastic
+33508,fantasy
+33509,far
+33515,far from
+33524,fare
+33526,farewell
+33527,farm
+33530,farmer
+33540,farther
+33546,fascinating
+33551,fashion
+33556,fashionable
+33558,fast
+33569,fasten
+33579,fat
+33581,fatal
+33584,fatal to
+33588,fate
+33591,father
+33598,fatigue
+33607,fault
+33615,faulty
+33620,favor
+33621,favorable
+33624,favorite
+33627,favour
+33628,favourable
+33633,favourite
+33636,fax
+33640,fear
+33643,fearful
+33649,feasible
+33650,feast
+33653,feather
+33656,feature
+33666,federal
+33671,fee
+33672,feeble
+33675,feed
+33680,feedback
+33682,feel
+33692,feel like
+33698,feel sick
+33705,feeling
+33720,fellow
+33727,female
+33733,fence
+33753,fertile
+33759,fertilizer
+33771,festival
+33776,fetch
+33792,fever
+33794,few
+33801,fiber
+33804,fibre
+33809,fiction
+33840,fierce
+33846,fifteen
+33848,fifth
+33850,fifty
+33853,fight
+33863,figure
+33864,figure in
+33867,figure on
+33868,figure out
+33875,file
+33914,fill
+33918,fill in
+33923,fill out
+33939,film
+33947,filter
+33960,finally
+33961,finance
+33964,financial
+33972,find
+33985,find out
+33989,finding
+33991,fine
+33999,finger
+34009,finish
+34022,fire
+34054,firm
+34059,first
+34061,first and foremost
+34070,first of all
+34082,fish
+34091,fisherman
+34107,fist
+34108,fit
+34115,fit on
+34133,five
+34139,fix
+34157,flag
+34172,flame
+34183,flash
+34196,flat
+34202,flat-footed
+34218,flavor
+34220,flavour
+34234,flee
+34237,fleet
+34239,flesh
+34247,flexible
+34259,flight
+34280,float
+34285,flock
+34288,flood
+34292,floor
+34311,flour
+34313,flourish
+34316,flow
+34319,flow from
+34322,flower
+34330,flu
+34334,fluent
+34338,fluid
+34353,flush
+34359,flute
+34363,fly
+34382,focus
+34390,fog
+34407,folk
+34417,follow
+34436,following
+34440,fond
+34449,food
+34453,fool
+34460,foolish
+34464,foot
+34468,football
+34493,for
+34503,for background
+34507,for company
+34511,for ever
+34512,for example
+34520,for good and all
+34523,for instance
+34524,for lack of
+34525,for life
+34528,for luck
+34530,for nothing
+34545,for sale
+34553,for that matter
+34555,for the benefit of
+34556,for the better
+34559,for the love of
+34560,for the moment
+34561,for the most part
+34570,for the time being
+34583,forbid
+34588,force
+34609,forecast
+34622,forehead
+34623,foreign
+34629,foreigner
+34647,forest
+34656,forever
+34662,forge
+34666,forget
+34675,forgive
+34683,fork
+34687,form
+34690,formal
+34695,format
+34698,formation
+34705,former
+34709,formula
+34718,forth
+34729,fortnight
+34735,fortunately
+34736,fortune
+34740,forty
+34745,forward
+34766,found
+34767,found on
+34769,foundation
+34774,fountain
+34776,four
+34782,fourteen
+34785,fourth
+34788,fox
+34796,fraction
+34803,fragment
+34811,frame
+34822,framework
+34848,free
+34855,free of charge
+34862,freedom
+34867,freely
+34874,freeze
+34881,freight
+34887,frequency
+34889,frequent
+34890,frequently
+34892,fresh
+34907,friction
+34913,friend
+34915,friendly
+34917,friendship
+34922,frighten
+34946,frog
+34950,from
+34960,from house to house
+34961,from lack of
+34966,from now on
+34973,from the beginning
+34976,from the heart
+34981,from time to time
+34988,front
+35000,frontier
+35002,frost
+35025,fruit
+35030,fruitful
+35041,fry
+35046,fuel
+35051,fulfil
+35058,full
+35095,fun
+35097,function
+35107,fund
+35109,fundamental
+35117,funeral
+35127,funny
+35128,fur
+35131,furious
+35136,furnace
+35137,furnish
+35147,further
+35158,fuss
+35167,future
+35192,gain
+35222,gallery
+35226,gallon
+35227,gallop
+35238,game
+35255,gang
+35262,gap
+35265,garage
+35267,garbage
+35273,garden
+35281,garlic
+35291,gas
+35299,gasoline
+35300,gasp
+35310,gate
+35315,gather
+35333,gay
+35335,gaze
+35340,gear
+35356,gene
+35358,general
+35376,generally
+35378,generate
+35380,generation
+35383,generator
+35387,generous
+35407,gentle
+35408,gentleman
+35412,gently
+35415,genuine
+35423,geography
+35434,geometry
+35438,germ
+35449,gesture
+35450,get
+35461,get across
+35463,get along
+35475,get at
+35477,get away
+35483,get back at
+35485,get behind
+35486,get by
+35492,get down to
+35501,get hold of
+35505,get in
+35527,get into trouble
+35537,get off
+35542,get on
+35556,get out
+35568,get over
+35574,get rid of
+35594,get the better of
+35601,get through
+35611,get together
+35629,ghost
+35633,giant
+35642,gift
+35673,girl
+35682,give
+35700,give back
+35764,give way to
+35776,given
+35783,glad
+35793,glance
+35797,glare
+35801,glass
+35820,glide
+35823,glimpse
+35827,glitter
+35832,global
+35840,globe
+35843,gloomy
+35847,glorious
+35849,glory
+35856,glow
+35860,glue
+35878,go
+35884,go after
+35887,go ahead
+35901,go back on
+35910,go by
+35934,go hungry
+35938,go in for
+35940,go into
+35953,go on
+35974,go out
+35981,go over
+35998,go through
+36019,go to office
+36056,go with
+36067,goal
+36075,goat
+36100,gold
+36107,golden
+36114,golf
+36125,good
+36134,good for
+36155,goodbye
+36157,goodness
+36159,goods
+36166,goose
+36191,govern
+36195,government
+36199,governor
+36200,gown
+36206,grace
+36207,graceful
+36210,gracious
+36214,grade
+36220,gradual
+36222,gradually
+36223,graduate
+36224,graduate from
+36237,gram
+36238,grammar
+36247,grand
+36257,granddaughter
+36260,grandfather
+36265,grandmother
+36271,grandson
+36276,grant
+36287,grape
+36314,grasp
+36317,grass
+36325,grateful
+36332,gratitude
+36336,grave
+36344,gravity
+36357,great
+36358,great at
+36365,greatly
+36369,greedy
+36370,green
+36383,greenhouse
+36388,greet
+36390,greeting
+36396,grey
+36408,grieve
+36421,grind
+36430,grip
+36439,groan
+36443,grocery
+36452,gross
+36465,ground
+36472,group
+36477,grow
+36487,grown-up
+36488,growth
+36502,guarantee
+36507,guard
+36514,guess
+36516,guest
+36520,guidance
+36521,guide
+36534,guilty
+36538,guitar
+36541,gulf
+36546,gum
+36551,gun
+36573,guy
+36576,gym
+36593,habit
+36600,habitual
+36619,had better
+36632,hail
+36638,hair
+36665,half
+36666,half an hour
+36689,hall
+36700,halt
+36709,hamburger
+36711,hammer
+36712,hammer at
+36721,hand
+36723,hand down
+36725,hand in
+36726,hand in hand
+36730,hand on
+36732,hand out
+36733,hand over
+36752,handbag
+36759,handful
+36768,handkerchief
+36769,handle
+36786,handsome
+36791,handwriting
+36794,handy
+36796,hang
+36801,hang back
+36802,hang on
+36811,hang up
+36830,happen
+36832,happen to do
+36836,happiness
+36837,happy
+36845,harbor
+36846,harbour
+36847,hard
+36873,harden
+36882,hardly
+36887,hardship
+36889,hardware
+36903,harm
+36905,harmless
+36913,harmony
+36923,harsh
+36927,harvest
+36941,haste
+36942,hasten
+36944,hasty
+36945,hat
+36947,hatch
+36951,hate
+36953,hateful
+36955,hatred
+36967,have
+36995,have a file on
+37004,have a good time
+37059,have back
+37067,have contact with
+37078,have got to
+37085,have influence on
+37087,have interest in
+37097,have need for
+37098,have need of
+37111,have nothing to do with
+37113,have on
+37121,have patience
+37150,have to
+37155,have trust in
+37172,hay
+37176,hazard
+37181,he
+37185,head
+37189,head for
+37199,headache
+37207,heading
+37216,headmaster
+37222,headquarters
+37233,heal
+37234,health
+37242,healthy
+37243,heap
+37248,hear
+37257,hearing
+37263,heart
+37288,heat
+37297,heating
+37300,heaven
+37306,heavy
+37320,hedge
+37331,heel
+37336,height
+37339,heir
+37345,helicopter
+37348,hell
+37350,hello
+37352,helmet
+37355,help
+37378,helpful
+37380,helpless
+37396,hen
+37417,herd
+37421,here
+37423,here and there
+37450,hero
+37452,heroic
+37455,heroine
+37460,hers
+37461,herself
+37467,hesitate
+37484,hi
+37503,hide
+37521,high
+37582,highland
+37583,highlight
+37587,highly
+37593,highway
+37594,hijack
+37601,hill
+37606,hillside
+37610,him
+37611,himself
+37612,hind
+37614,hinder
+37623,hint
+37625,hip
+37633,hire
+37638,his
+37645,historical
+37648,history
+37651,hit
+37655,hit the nail on the head
+37682,hobby
+37698,hold
+37701,hold back
+37712,hold on
+37713,hold on to
+37723,hold out
+37740,hold up
+37753,hole
+37758,hollow
+37766,holy
+37768,home
+37822,honest
+37824,honesty
+37825,honey
+37828,honeymoon
+37833,honor
+37835,honorable
+37842,honour
+37845,honourable
+37850,hook
+37865,hope
+37869,hopeful
+37871,hopeless
+37877,horizon
+37879,horizontal
+37891,horn
+37904,horror
+37909,horse
+37922,horsepower
+37939,hospital
+37943,host
+37952,hostile
+37954,hot
+37972,hotel
+37984,hour
+37988,house
+37996,household
+38009,housework
+38010,housing
+38020,how
+38036,however
+38037,howl
+38053,huge
+38067,human
+38091,humble
+38097,humid
+38108,humor
+38111,humorous
+38112,humour
+38119,hundred
+38126,hunger
+38130,hungry
+38132,hunt
+38133,hunt down
+38134,hunt for
+38151,hurry
+38156,hurt
+38158,husband
+38168,hut
+38184,hydrogen
+38242,ice
+38252,ice-cold
+38277,idea
+38278,ideal
+38285,identical
+38294,identify
+38300,identity
+38313,idle
+38332,if
+38350,ignorance
+38351,ignorant
+38352,ignore
+38355,ill
+38364,illegal
+38378,illness
+38387,illustrate
+38388,illustration
+38393,image
+38409,imaginary
+38411,imagination
+38413,imagine
+38437,immediate
+38442,immediately
+38444,immense
+38450,immigrant
+38503,impatient
+38526,imperialism
+38551,implement
+38555,implication
+38565,imply
+38571,import
+38578,importance
+38579,important
+38586,impose
+38594,impossible
+38613,impress
+38617,impression
+38638,improve
+38641,improvement
+38662,in
+38696,in a sense
+38703,in a word
+38707,in accord with
+38708,in accordance with
+38711,in addition
+38713,in addition to
+38714,in advance
+38716,in agreement
+38717,in agreement with
+38720,in all
+38732,in any case
+38734,in appearance
+38739,in behalf of
+38745,in brief
+38749,in case
+38750,in case of
+38768,in common
+38769,in company
+38770,in company with
+38772,in competition with
+38774,in conclusion
+38776,in confidence
+38777,in conflict
+38778,in conflict with
+38787,in contempt of
+38793,in conversation with
+38798,in debt
+38804,in detail
+38807,in difficulty
+38810,in dispute
+38811,in dispute with
+38814,in due time
+38818,in effect
+38824,in exchange for
+38825,in existence
+38827,in fact
+38838,in focus
+38843,in front of
+38848,in funds
+38849,in future
+38850,in general
+38860,in grain
+38863,in half
+38864,in hand
+38875,in honor of
+38884,in justice to
+38891,in less than no time
+38897,in little
+38912,in need of
+38914,in no case
+38918,in no time
+38944,in order
+38947,in order that
+38948,in order to
+38950,in other words
+38954,in particular
+38959,in person
+38962,in plant
+38964,in play
+38970,in practice
+38974,in print
+38975,in prison
+38977,in progress
+39000,in safety
+39011,in search of
+39012,in season
+39013,in secret
+39020,in sheets
+39021,in short
+39024,in sight
+39026,in silence
+39060,in that case
+39070,in the background
+39072,in the beginning
+39084,in the course of
+39090,in the distance
+39093,in the end
+39096,in the event of
+39098,in the extreme
+39108,in the future
+39122,in the large
+39126,in the light of
+39131,in the matter of
+39132,in the meantime
+39140,in the morning
+39142,in the near future
+39145,in the night
+39146,in the open
+39148,in the past
+39149,in the person of
+39175,in the style of
+39176,in the tree
+39192,in time
+39200,in trouble
+39201,in truth
+39258,inaugurate
+39291,inch
+39294,incident
+39311,incline
+39316,include
+39329,income
+39377,increase
+39381,increasingly
+39382,incredible
+39411,indeed
+39431,independence
+39432,independent
+39439,index
+39447,indicate
+39448,indication
+39454,indifferent
+39467,indirect
+39476,indispensable
+39484,individual
+39498,indoors
+39514,industrial
+39524,industry
+39549,inevitable
+39568,infant
+39575,infect
+39582,infer
+39583,inference
+39585,inferior
+39600,infinite
+39623,inflation
+39631,influence
+39634,influential
+39639,inform
+39645,information
+39688,ingredient
+39690,inhabit
+39697,inherit
+39714,initial
+39728,initiative
+39731,injection
+39734,injure
+39737,injury
+39739,ink
+39749,inn
+39751,inner
+39759,innocent
+39775,input
+39782,inquire
+39788,inquiry
+39804,insect
+39814,insert
+39825,inside
+39838,insist
+39839,insist on
+39843,insistent
+39858,inspect
+39863,inspire
+39872,install
+39876,installation
+39880,instance
+39881,instant
+39890,instead
+39891,instead of
+39897,instinct
+39901,institute
+39902,institution
+39906,instruct
+39907,instruction
+39911,instrument
+39928,insurance
+39933,insure
+39950,integrate
+39965,intellectual
+39969,intelligence
+39971,intelligent
+39977,intend
+39980,intense
+39986,intensity
+39987,intensive
+39991,intention
+39992,intentional
+39998,interaction
+40022,interest
+40033,interesting
+40036,interfere
+40041,interference
+40049,interior
+40079,internal
+40088,international
+40091,international practice
+40116,interpret
+40117,interpretation
+40118,interpreter
+40126,interrupt
+40131,interruption
+40144,interval
+40148,interview
+40157,intimate
+40164,into
+40166,into the open
+40195,introduce
+40197,introduction
+40216,invade
+40226,invasion
+40230,invent
+40231,invention
+40234,inventor
+40246,invest
+40249,investigate
+40267,invisible
+40269,invitation
+40272,invite
+40281,involve
+40287,inward
+40306,iron
+40325,irregular
+40365,island
+40369,isolate
+40379,issue
+40384,it
+40411,item
+40420,its
+40421,itself
+40432,jacket
+40441,jail
+40444,jam
+40450,jar
+40459,jaw
+40464,jazz
+40466,jealous
+40469,jeans
+40491,jet
+40499,jewel
+40517,job
+40540,join
+40547,joint
+40561,joke
+40566,jolly
+40574,journal
+40579,journalist
+40582,journey
+40585,joy
+40586,joyful
+40597,judge
+40599,judgement
+40614,juice
+40621,jump
+40640,jungle
+40641,junior
+40657,jury
+40658,just
+40667,just now
+40671,justice
+40676,justify
+40697,keen
+40701,keep
+40711,keep a secret
+40717,keep an eye on
+40725,keep back
+40734,keep down
+40741,keep house
+40749,keep off
+40768,keep out of
+40797,keep the house
+40803,keep up
+40835,kerosene
+40839,kettle
+40840,key
+40868,kick
+40880,kid
+40888,kill
+40896,kilo
+40900,kilogram
+40902,kilometer
+40919,kindergarten
+40923,kindness
+40927,king
+40932,kingdom
+40940,kiss
+40945,kitchen
+40947,kite
+40968,knee
+40975,knife
+40979,knit
+40983,knob
+40984,knock
+41004,knot
+41007,know
+41024,knowledge
+41046,label
+41061,laboratory
+41066,labour
+41075,lace
+41080,lack
+41093,lad
+41094,ladder
+41100,lady
+41104,lag
+41118,lake
+41120,lamb
+41127,lame
+41133,lamp
+41142,land
+41149,landing
+41150,landlady
+41153,landlord
+41157,landscape
+41159,lane
+41161,language
+41169,lantern
+41172,lap
+41184,large
+41191,largely
+41197,lark
+41204,laser
+41215,last
+41218,last but one
+41220,last minute
+41233,late
+41237,lately
+41241,later on
+41252,latter
+41257,laugh
+41258,laugh at
+41267,laughter
+41268,launch
+41272,laundry
+41287,law
+41297,lawn
+41302,lawyer
+41307,lay
+41335,layer
+41338,layout
+41350,lead
+41365,leader
+41367,leadership
+41368,leading
+41372,leaf
+41378,league
+41381,leak
+41384,lean
+41388,leap
+41390,learn
+41405,learned
+41407,learning
+41410,lease
+41419,least
+41421,leather
+41422,leave
+41459,lecture
+41478,left
+41490,leftover
+41492,leg
+41495,legacy
+41496,legal
+41504,legend
+41512,legislation
+41522,leisure
+41525,lemon
+41529,lend
+41539,length
+41546,lens
+41557,less
+41561,lessen
+41564,lest
+41565,let
+41574,let in
+41576,let off
+41604,letter
+41619,level
+41647,liable
+41650,liar
+41656,liberal
+41667,liberty
+41670,librarian
+41672,library
+41680,licence
+41683,license
+41691,lick
+41694,lid
+41696,lie
+41703,lie on
+41706,lie up
+41713,lieutenant
+41715,life
+41736,lifetime
+41737,lift
+41746,light
+41762,lighten
+41769,lightly
+41770,lightning
+41776,like
+41781,like crazy
+41787,likely
+41791,likewise
+41796,limb
+41800,lime
+41806,limit
+41809,limitation
+41811,limited
+41821,line
+41845,linen
+41858,link
+41871,lion
+41875,lip
+41880,liquid
+41891,liquor
+41895,list
+41900,listen
+41922,literary
+41926,literature
+41942,little by little
+41949,live
+41951,live by
+41956,live on
+41965,live up to
+41973,lively
+41975,liver
+41981,living
+41991,load
+41997,loaf
+41998,loan
+42008,lobby
+42011,local
+42017,local government
+42030,locate
+42032,location
+42050,locomotive
+42055,lodge
+42061,log
+42073,logic
+42074,logical
+42091,lonely
+42093,long
+42123,look
+42127,look after
+42132,look at
+42134,look back
+42143,look for
+42147,look forward to
+42151,look in
+42154,look into
+42158,look on
+42168,look over
+42171,look pale
+42178,look through
+42183,look up
+42184,look up to
+42197,loop
+42199,loose
+42201,loosen
+42210,lord
+42214,lorry
+42215,lose
+42222,lose heart
+42254,loss
+42268,loud
+42272,loudspeaker
+42281,love
+42285,lovely
+42286,lover
+42289,low
+42295,low price
+42302,lower
+42313,loyal
+42316,loyalty
+42328,luck
+42330,lucky
+42339,luggage
+42345,lumber
+42363,lunch
+42367,lung
+42388,luxury
+42415,machine
+42418,machinery
+42451,mad
+42467,magazine
+42471,magic
+42485,magnet
+42486,magnetic
+42498,magnificent
+42508,maid
+42512,mail
+42516,mailbox
+42523,main
+42541,mainland
+42543,mainly
+42548,maintain
+42553,maintenance
+42571,majority
+42572,make
+42590,make a difference
+42635,make a statement
+42640,make a way
+42661,make clear
+42673,make for
+42675,make friends
+42679,make fun of
+42682,make hay
+42698,make light of
+42703,make much of
+42730,make out
+42733,make peace
+42750,make sense
+42761,make sure
+42770,make the best of
+42773,make the difference
+42775,make the most of
+42785,make up
+42793,make use of
+42814,male
+42850,man
+42860,manage
+42864,management
+42868,manager
+42908,mankind
+42909,manly
+42913,manner
+42927,manual
+42933,manufacture
+42935,manufacturer
+42942,many
+42946,map
+42959,marble
+42966,margin
+42974,marine
+42982,mark
+42986,mark time
+42994,market
+43015,marriage
+43017,married
+43019,marry
+43036,marvellous
+43047,mask
+43055,mass
+43069,massive
+43074,master
+43089,masterpiece
+43092,mat
+43094,match
+43102,mate
+43103,material
+43120,mathematical
+43125,maths
+43134,matter
+43139,mature
+43155,maximum
+43162,maybe
+43167,mayor
+43170,me
+43173,meadow
+43176,meal
+43177,mean
+43185,meaning
+43193,means
+43195,meantime
+43196,meanwhile
+43200,measure
+43207,measurement
+43209,meat
+43212,mechanic
+43213,mechanical
+43219,mechanism
+43223,medal
+43228,media
+43239,medical
+43253,medicine
+43264,medium
+43278,meet
+43283,meeting
+43309,melon
+43314,melt down
+43319,member
+43321,membership
+43331,memorial
+43336,memory
+43349,mend
+43358,mental
+43364,mention
+43367,menu
+43378,merchandise
+43381,merchant
+43387,mercy
+43389,mere
+43390,merely
+43399,merit
+43406,merry
+43413,mess
+43418,message
+43428,messenger
+43438,metal
+43461,meter
+43476,metre
+43477,metric
+43514,microphone
+43518,microscope
+43534,midday
+43535,middle
+43552,midnight
+43561,might
+43577,mild
+43580,mile
+43587,military
+43592,milk
+43600,mill
+43613,millimeter
+43614,millimetre
+43616,million
+43635,mind
+43645,mine
+43648,miner
+43649,mineral
+43672,minimum
+43680,minister
+43683,ministry
+43687,minor
+43688,minority
+43695,minus
+43698,minute
+43702,miracle
+43707,mirror
+43729,mischief
+43743,miserable
+43766,mislead
+43778,miss
+43783,missile
+43784,missing
+43785,mission
+43792,mist
+43793,mistake
+43799,mister
+43805,mistress
+43810,misunderstand
+43817,mix
+43834,moan
+43836,mob
+43837,mobile
+43848,mode
+43849,model
+43856,moderate
+43858,moderate weather
+43863,modern
+43865,modern history
+43871,modest
+43878,modify
+43892,moist
+43894,moisture
+43900,mold
+43907,molecule
+43917,moment
+43929,money
+43937,monitor
+43939,monkey
+43970,month
+43971,monthly
+43974,monument
+43978,mood
+43981,moon
+43996,moral
+44008,more
+44009,more and more
+44011,more or less
+44017,moreover
+44023,morning
+44041,mortgage
+44051,mosquito
+44054,most
+44057,most of all
+44059,mostly
+44065,mother
+44082,motive
+44084,motor
+44100,mould
+44107,mount
+44110,mount up
+44111,mountain
+44122,mourn
+44126,mouse
+44135,mouth
+44138,mouthful
+44142,move
+44157,movement
+44159,movie
+44180,much
+44186,much of a
+44193,mud
+44196,muddy
+44203,mug
+44211,mule
+44246,multiple
+44260,multiply
+44284,murder
+44285,murderer
+44292,muscle
+44297,museum
+44299,mushroom
+44302,music
+44308,musical
+44316,musician
+44324,must
+44326,mustard
+44335,mute
+44342,mutter
+44344,mutual
+44348,my
+44358,myself
+44360,mysterious
+44362,mystery
+44382,nail
+44389,naked
+44391,name
+44392,name after
+44405,namely
+44414,nap
+44428,narrow
+44434,nasty
+44438,nation
+44440,national
+44447,national unity
+44451,nationality
+44455,native
+44461,natural
+44468,natural resources
+44476,naturally
+44478,nature
+44483,naughty
+44490,naval
+44497,navigation
+44501,navy
+44506,near
+44510,nearby
+44512,nearly
+44514,neat
+44522,necessary
+44526,necessity
+44527,neck
+44530,necklace
+44535,need
+44538,needle
+44539,needless
+44549,negative
+44550,neglect
+44559,negotiate
+44563,neighbor
+44564,neighborhood
+44566,neighbour
+44567,neighbourhood
+44569,neither
+44583,nephew
+44587,nerve
+44591,nervous
+44598,nest
+44604,net
+44612,network
+44642,neutral
+44648,never
+44654,never more
+44655,nevertheless
+44656,new
+44671,newly
+44676,news
+44685,newspaper
+44692,next
+44694,next door
+44697,next to
+44704,nice
+44714,niece
+44722,night
+44724,night and day
+44737,nightmare
+44750,nineteen
+44753,ninety
+44757,ninth
+44769,nitrogen
+44773,no
+44774,no better than
+44775,no doubt
+44779,no less than
+44781,no longer
+44784,no matter
+44791,no more
+44793,no more than
+44810,no wonder
+44817,noble
+44821,nobody
+44823,nod
+44833,noise
+44840,noisy
+44893,none
+44922,nonsense
+44934,noodle
+44937,noon
+44943,nor
+44945,normal
+44956,normally
+44958,north
+44962,northeast
+44965,northern
+44971,northwest
+44973,nose
+44983,not
+44993,not better than
+45000,not half
+45006,not less than
+45007,not more than
+45056,note
+45062,notebook
+45068,nothing
+45069,nothing but
+45074,notice
+45077,noticeable
+45081,notify
+45088,noun
+45093,novel
+45100,now
+45104,now that
+45106,nowadays
+45107,nowhere
+45113,nuclear
+45120,nuclear weapons
+45130,nuisance
+45144,number
+45170,numerous
+45179,nurse
+45180,nursery
+45187,nut
+45199,nylon
+45201,o'clock
+45205,oak
+45206,oar
+45222,obey
+45227,object
+45240,objective
+45250,oblige
+45273,observation
+45277,observe
+45279,observer
+45290,obstacle
+45295,obstinate
+45300,obtain
+45308,obvious
+45309,obviously
+45310,occasion
+45311,occasional
+45319,occupation
+45324,occupy
+45325,occur
+45328,occurrence
+45329,ocean
+45343,odd
+45355,odor
+45359,odour
+45363,of
+45369,of benefit to
+45371,of course
+45393,off
+45394,off and on
+45426,offend
+45434,offensive
+45436,offer
+45447,office
+45451,officer
+45453,official
+45465,often
+45469,oh
+45471,oil
+45486,okay
+45488,old
+45495,old-fashioned
+45514,omit
+45521,on
+45525,on Sunday morning
+45543,on account of
+45547,on all sides
+45548,on an average
+45555,on balance
+45556,on behalf of
+45557,on board
+45558,on business
+45559,on call
+45564,on deck
+45567,on display
+45568,on duty
+45569,on earth
+45572,on exhibit
+45574,on fire
+45575,on foot
+45580,on guard
+45583,on high
+45590,on leave
+45593,on loan
+45601,on occasion
+45620,on one's side
+45628,on paper
+45634,on sale
+45651,on the average
+45656,on the board
+45665,on the decrease
+45667,on the earth
+45670,on the fire
+45681,on the horizon
+45686,on the job
+45687,on the jump
+45693,on the map
+45700,on the other hand
+45704,on the paper
+45722,on the stage
+45725,on the surface
+45735,on the tree
+45737,on the understanding that
+45742,on the watch
+45743,on the watch for
+45750,on time
+45754,on vacation
+45756,on watch
+45776,once
+45779,once again
+45780,once and again
+45788,once for all
+45790,once in a while
+45791,once more
+45796,one
+45797,one after another
+45798,one and all
+45800,one another
+45801,one by one
+45809,one thousand
+45835,oneself
+45837,onion
+45841,only
+45844,only not
+45846,only that
+45848,only too
+45854,onto
+45870,open
+45881,open fire
+45887,open out
+45895,open up
+45900,opening
+45901,opening ceremony
+45908,opera
+45911,operate
+45920,operation
+45927,operational
+45937,operator
+45945,opinion
+45948,opponent
+45951,opportunity
+45954,oppose
+45956,opposite
+45967,optical
+45983,optimistic
+45990,option
+45999,or
+46000,or else
+46007,oral
+46012,orange
+46022,orbit
+46033,order
+46040,orderly
+46046,ordinary
+46051,ore
+46052,organ
+46053,organic
+46060,organism
+46062,organization
+46064,organize
+46070,oriental
+46077,origin
+46092,ornament
+46099,orphan
+46129,other
+46132,other than
+46134,otherwise
+46139,ought
+46142,ounce
+46143,our
+46144,ours
+46147,ourselves
+46150,out
+46162,out of control
+46163,out of danger
+46164,out of date
+46168,out of focus
+46199,out of the picture
+46209,out of work
+46220,outcome
+46226,outdoor
+46228,outdoors
+46230,outer
+46248,outlet
+46249,outline
+46263,output
+46281,outset
+46283,outside
+46287,outskirts
+46289,outstanding
+46293,outward
+46295,outwards
+46300,oval
+46304,oven
+46305,over
+46345,overcoat
+46346,overcome
+46376,overhead
+46392,overlook
+46394,overnight
+46410,overseas
+46426,overtake
+46454,owe
+46460,owing
+46463,own
+46466,owner
+46468,ownership
+46469,ox
+46488,pace
+46492,pacific
+46497,pack
+46504,package
+46512,packet
+46518,pad
+46530,page
+46555,pail
+46556,pain
+46559,painful
+46567,paint
+46571,painter
+46572,painting
+46574,pair
+46579,palace
+46584,pale
+46600,palm
+46612,pan
+46618,panda
+46623,pane
+46625,panel
+46630,panic
+46650,paper
+46679,parade
+46682,paradise
+46688,paragraph
+46692,parallel
+46723,parasite
+46727,parcel
+46730,pardon
+46733,parent
+46752,park
+46763,parliament
+46785,part
+46799,partial
+46805,participate
+46811,particle
+46812,particular
+46814,particularly
+46822,partly
+46824,partner
+46829,party
+46831,pass
+46835,pass away
+46838,pass off
+46843,pass out
+46859,passage
+46866,passenger
+46872,passion
+46875,passive
+46883,past
+46903,pat
+46905,patch
+46917,path
+46930,patience
+46931,patient
+46951,pattern
+46962,pause
+46964,pave
+46967,pavement
+46970,paw
+46977,pay
+46981,pay attention to
+47002,pay up
+47011,payment
+47016,pea
+47019,peace
+47026,peaceful
+47033,peak
+47041,pearl
+47043,peasant
+47048,pebble
+47051,peck
+47056,peculiar
+47083,peel
+47087,peep
+47093,peer
+47115,pen
+47127,penalty
+47131,pencil
+47145,penetrate
+47152,peninsula
+47163,penny
+47166,pension
+47178,people
+47180,pepper
+47189,per
+47194,per cent
+47203,perceive
+47206,percent
+47208,percentage
+47224,perfect
+47236,perform
+47241,performance
+47244,perfume
+47248,perhaps
+47253,period
+47266,perish
+47278,permanent
+47288,permission
+47290,permit
+47318,persist
+47325,person
+47329,personal
+47339,personality
+47347,personnel
+47349,perspective
+47356,persuade
+47388,pessimistic
+47396,pet
+47407,petrol
+47410,petroleum
+47439,phase
+47447,phenomenon
+47463,philosophy
+47469,phone
+47494,photograph
+47504,phrase
+47507,physical
+47516,physician
+47517,physicist
+47519,physics
+47532,piano
+47539,pick
+47556,pick up
+47567,picnic
+47574,picture
+47588,pie
+47591,piece
+47600,pig
+47602,pigeon
+47610,pile
+47616,pill
+47618,pillar
+47620,pillow
+47622,pilot
+47626,pin
+47627,pin down
+47631,pinch
+47633,pine
+47642,pink
+47650,pioneer
+47655,pipe
+47661,pipeline
+47676,pistol
+47678,pit
+47679,pitch
+47694,pity
+47706,place
+47722,plain
+47732,plan
+47736,plane
+47739,planet
+47747,plant
+47749,plantation
+47755,plaster
+47759,plastic
+47762,plate
+47768,platform
+47779,play
+47794,play at
+47828,play the game
+47848,player
+47851,playground
+47863,plea
+47871,pleasant
+47873,please
+47877,pleasure
+47881,pledge
+47887,plenty
+47902,plot
+47908,plough
+47915,pluck
+47918,plug
+47934,plunge
+47937,plural
+47939,plus
+47951,pocket
+47965,poem
+47966,poet
+47971,poetry
+47974,point
+47993,poison
+47995,poisonous
+48008,pole
+48015,police
+48020,policeman
+48022,policy
+48034,polite
+48039,political
+48045,politician
+48054,pollute
+48057,pollution
+48084,pond
+48098,pool
+48102,poor
+48108,pop
+48128,popular
+48134,population
+48137,porch
+48142,pork
+48150,porridge
+48151,port
+48153,portable
+48169,portion
+48171,portrait
+48176,pose
+48181,position
+48182,positive
+48189,possess
+48191,possession
+48196,possibility
+48197,possible
+48198,possibly
+48200,post
+48205,post office
+48213,postage
+48231,postman
+48235,postpone
+48243,pot
+48249,potato
+48256,potential
+48275,pound
+48279,pour
+48286,poverty
+48288,powder
+48292,power
+48296,power plant
+48304,powerful
+48311,practical
+48314,practically
+48315,practice
+48320,practise
+48328,praise
+48338,pray
+48342,prayer
+48361,precaution
+48366,preceding
+48371,precious
+48377,precise
+48379,precision
+48400,predict
+48423,prefer
+48429,preferable
+48431,preference
+48442,pregnant
+48445,prejudice
+48449,preliminary
+48461,premier
+48481,preparation
+48484,prepare
+48508,prescribe
+48515,present
+48531,preserve
+48539,president
+48542,press
+48552,pressure
+48569,pretend
+48581,pretty
+48585,prevail
+48593,prevent
+48603,previous
+48612,price
+48624,pride
+48628,priest
+48631,primarily
+48632,primary
+48639,primary school
+48644,prime
+48649,primitive
+48655,prince
+48657,princess
+48658,principal
+48660,principle
+48661,print
+48684,priority
+48688,prison
+48690,prisoner
+48694,private
+48704,privilege
+48707,prize
+48718,probable
+48719,probably
+48725,problem
+48731,procedure
+48732,proceed
+48740,process
+48746,procession
+48748,proclaim
+48765,produce
+48770,product
+48782,profession
+48783,professional
+48787,professor
+48793,profile
+48795,profit
+48828,programme
+48833,progress
+48835,progressive
+48838,prohibit
+48843,project
+48861,prominent
+48865,promise
+48873,promote
+48877,prompt
+48889,pronounce
+48892,pronunciation
+48893,proof
+48910,proper
+48912,property
+48923,proportion
+48924,proportional
+48929,proposal
+48930,propose
+48957,prospect
+48964,prosperity
+48965,prosperous
+48972,protect
+48978,protection
+48980,protective
+48983,protein
+48985,protest
+48986,protest about
+48987,protest against
+49005,proud
+49007,prove
+49014,provide
+49015,provide against
+49032,province
+49035,provision
+49079,psychological
+49095,public
+49112,publication
+49117,publish
+49124,pudding
+49129,puff
+49144,pull
+49189,pulse
+49195,pump
+49201,punch
+49205,punctual
+49215,punish
+49216,punish by
+49220,punishment
+49228,pupil
+49229,puppet
+49233,puppy
+49236,purchase
+49239,pure
+49255,purple
+49257,purpose
+49262,purse
+49266,pursue
+49276,push
+49279,push ahead with
+49283,push for
+49288,push through
+49300,put
+49313,put aside
+49315,put away
+49317,put back
+49320,put down
+49322,put forth
+49323,put forward
+49337,put into use
+49346,put off
+49347,put on
+49398,put trust in
+49399,put up
+49400,put up with
+49425,puzzle
+49459,quake
+49461,qualification
+49467,qualify
+49471,quality
+49484,quantity
+49493,quarrel
+49501,quarter
+49504,quarterly
+49514,queen
+49516,queer
+49523,quest
+49532,queue
+49536,quick
+49544,quicken
+49551,quiet
+49557,quilt
+49567,quit
+49570,quite
+49574,quite a few
+49581,quiz
+49587,quotation
+49590,quote
+49595,rabbit
+49599,race
+49605,racial
+49612,rack
+49615,racket
+49619,radar
+49625,radiation
+49630,radio
+49641,radish
+49643,radius
+49651,rag
+49655,rage
+49662,raid
+49664,rail
+49667,railroad
+49670,railway
+49674,rain
+49681,rainbow
+49682,raincoat
+49690,rainy
+49692,raise
+49701,rake
+49735,range
+49742,rank
+49754,rapid
+49766,rare
+49768,rarely
+49781,rat
+49787,rate
+49795,rather
+49802,ratio
+49805,rational
+49828,raw
+49835,ray
+49838,razor
+49848,reach
+49856,react
+49864,read
+49887,reader
+49890,readily
+49892,reading
+49901,ready
+49906,real
+49926,reality
+49928,realize
+49931,really
+49932,realm
+49937,reap
+49943,rear
+49949,reason
+49951,reasonable
+49964,rebel
+49966,rebellion
+49983,recall
+49990,receipt
+49992,receive
+49994,receiver
+49996,recent
+49997,recently
+49999,reception
+50022,recite
+50027,reckon
+50041,recognition
+50044,recognize
+50046,recollect
+50048,recommend
+50050,recommendation
+50064,reconsideration
+50068,record
+50076,recorder
+50087,recover
+50091,recovery
+50095,recreation
+50101,recruit
+50104,rectangle
+50126,red
+50157,reduce
+50164,reduction
+50170,reed
+50175,reel
+50187,refer
+50194,reference
+50214,reflect
+50218,reflection
+50228,reform
+50237,refresh
+50245,refrigerator
+50246,refuge
+50254,refusal
+50255,refuse
+50259,refute
+50264,regard
+50267,regarding
+50268,regardless
+50283,region
+50288,register
+50298,regret
+50303,regular
+50309,regulate
+50310,regulation
+50317,rehearsal
+50320,reign
+50324,rein
+50330,reinforce
+50336,reject
+50346,relate
+50352,relation
+50355,relationship
+50356,relative
+50360,relativity
+50361,relax
+50368,release
+50375,relevant
+50380,reliance
+50386,relief
+50388,relieve
+50394,religion
+50395,religious
+50404,reluctant
+50406,rely
+50408,remain
+50414,remains
+50415,remark
+50416,remarkable
+50423,remedy
+50424,remember
+50429,remind
+50444,remit
+50456,remote
+50466,removal
+50467,remove
+50479,render
+50485,renew
+50495,rent
+50510,repair
+50524,repeat
+50527,repeatedly
+50538,repetition
+50542,replace
+50558,reply
+50561,report
+50567,reporter
+50572,represent
+50574,representative
+50583,reproach
+50587,reproduce
+50598,republic
+50599,republican
+50607,reputation
+50609,request
+50612,require
+50614,requirement
+50627,rescue
+50629,research
+50635,resemble
+50637,resent
+50641,reserve
+50647,reservoir
+50654,residence
+50657,resident
+50663,resign
+50666,resignation
+50672,resist
+50674,resist the temptation
+50675,resistance
+50683,resolution
+50684,resolve
+50692,resort
+50696,resource
+50703,respect
+50706,respectable
+50710,respectful
+50713,respective
+50714,respectively
+50722,respond
+50726,response
+50729,responsibility
+50730,responsible
+50733,rest
+50744,restaurant
+50756,restore
+50758,restrain
+50760,restraint
+50761,restrict
+50770,result
+50776,resume
+50788,retain
+50808,retire
+50821,retreat
+50835,return
+50853,reveal
+50858,revenge
+50861,revenue
+50872,reverse
+50879,review
+50882,revise
+50894,revolt
+50897,revolution
+50898,revolutionary
+50908,reward
+50929,rhythm
+50932,rib
+50935,ribbon
+50937,rice
+50940,rich
+50950,rid
+50954,riddle
+50956,ride
+50960,ridge
+50962,ridiculous
+50966,rifle
+50970,right
+50974,right away
+50994,rigid
+51006,ring
+51023,riot
+51029,ripe
+51036,rise
+51048,risk
+51059,rival
+51063,river
+51070,road
+51082,roar
+51084,roast
+51087,rob
+51090,robber
+51091,robbery
+51092,robe
+51094,robot
+51098,rock
+51108,rocket
+51126,role
+51129,roll
+51137,roller
+51151,romantic
+51156,roof
+51161,room
+51169,root
+51174,rope
+51178,rose
+51189,rot
+51192,rotate
+51200,rotten
+51206,rough
+51213,round
+51232,rouse
+51234,route
+51242,row
+51247,royal
+51250,rub
+51259,rubber
+51262,rubbish
+51274,rude
+51284,rug
+51288,ruin
+51291,rule
+51294,ruler
+51304,rumour
+51308,run
+51324,run down
+51328,run into
+51333,run off
+51336,run out of
+51373,rural
+51375,rush
+51383,rust
+51390,rusty
+51393,ruthless
+51408,sack
+51411,sacred
+51412,sacrifice
+51419,sad
+51423,saddle
+51431,safe
+51436,safety
+51449,sail
+51456,sailor
+51457,saint
+51460,sake
+51466,salad
+51472,salary
+51473,sale
+51497,salesman
+51515,salmon
+51520,salt
+51527,salute
+51538,same
+51543,sample
+51555,sanction
+51559,sand
+51567,sandwich
+51596,sardine
+51608,satellite
+51621,satisfaction
+51624,satisfactory
+51626,satisfy
+51638,sauce
+51640,saucer
+51645,sausage
+51648,savage
+51655,save
+51668,saving
+51680,saw
+51684,say
+51685,say goodbye to
+51689,say no to
+51710,scale
+51739,scarce
+51740,scarcely
+51743,scare
+51747,scarf
+51758,scatter
+51765,scene
+51768,scent
+51776,schedule
+51782,scheme
+51789,scholar
+51792,scholarship
+51794,school
+51823,science
+51826,scientific
+51830,scientist
+51839,scissors
+51842,scold
+51848,scope
+51852,score
+51860,scorn
+51867,scout
+51874,scrape
+51878,scratch
+51882,scream
+51888,screen
+51904,screw
+51912,script
+51963,sea
+51980,seal
+51997,search
+52017,seat
+52034,second
+52042,secondary
+52043,secondary education
+52049,secret
+52052,secretary
+52061,section
+52064,sector
+52068,secure
+52078,security
+52093,see
+52104,see land
+52105,see light
+52118,see to
+52128,seed
+52135,seek
+52137,seek for
+52155,segment
+52163,seize
+52171,seldom
+52172,select
+52174,selection
+52181,self
+52259,selfish
+52266,sell
+52295,seminar
+52301,senate
+52302,senator
+52304,send
+52330,senior
+52339,sense
+52340,sense of humor
+52342,sense of smell
+52347,sensible
+52350,sensitive
+52361,sentence
+52369,sentiment
+52376,separate
+52398,sequence
+52427,series
+52431,serious
+52436,sermon
+52444,servant
+52445,serve
+52446,serve as
+52451,serve the people
+52456,service
+52470,session
+52471,set
+52475,set about
+52487,set fire to
+52490,set free
+52492,set off
+52498,set out
+52516,set up
+52532,setting
+52533,settle
+52547,settlement
+52551,seven
+52552,seventeen
+52554,seventh
+52556,seventy
+52558,several
+52563,severe
+52566,severely
+52568,sew
+52577,sex
+52592,shade
+52596,shadow
+52600,shady
+52604,shake
+52616,shall
+52618,shallow
+52622,shame
+52627,shampoo
+52631,shape
+52636,share
+52655,sharp
+52665,shave
+52674,she
+52684,shed
+52692,sheep
+52695,sheer
+52696,sheet
+52700,shelf
+52705,shelter
+52717,shield
+52719,shift
+52730,shine
+52738,ship
+52755,shirt
+52759,shiver
+52761,shock
+52766,shoe
+52775,shoot
+52790,shop
+52810,shore
+52812,short
+52814,short cut
+52827,shortage
+52836,shorthand
+52838,shortly
+52839,shortly after
+52840,shortly before
+52845,shot
+52849,should
+52851,shoulder
+52857,shout
+52865,show
+52867,show evidence of
+52868,show in
+52871,show off
+52881,show up
+52888,shower
+52901,shriek
+52907,shrink
+52917,shrug
+52927,shut
+52941,shy
+52952,sick
+52962,side
+52963,side by side
+52981,siege
+52989,sigh
+52991,sight
+52999,sightseeing
+53000,sign
+53011,signal
+53016,signature
+53020,significance
+53021,significant
+53028,silence
+53030,silent
+53037,silk
+53043,silly
+53046,silver
+53053,similar
+53062,simple
+53069,simplicity
+53073,simplify
+53075,simply
+53085,sin
+53086,since
+53088,sincere
+53096,sing
+53102,single
+53113,singular
+53117,sink
+53130,sir
+53132,siren
+53136,sister
+53139,sit
+53151,sit up
+53158,site
+53165,situation
+53166,six
+53168,sixteen
+53170,sixteenth
+53171,sixth
+53174,sixty
+53176,size
+53181,skate
+53194,sketch
+53203,ski
+53209,skilful
+53211,skill
+53214,skilled
+53216,skillful
+53220,skim
+53226,skin
+53242,skirt
+53249,sky
+53268,slam
+53274,slap
+53282,slave
+53287,slavery
+53297,sleep
+53318,sleeve
+53321,slender
+53324,slice
+53328,slide
+53331,slight
+53334,slim
+53341,slip
+53352,slippery
+53360,slogan
+53362,slope
+53373,slow
+53374,slow down
+53377,slow train
+53389,slum
+53397,sly
+53399,small
+53409,smart
+53413,smash
+53420,smell
+53421,smell of
+53429,smile
+53442,smog
+53444,smoke
+53469,smuggle
+53480,snake
+53484,snap
+53498,snatch
+53534,snow
+53554,so
+53559,so far
+53565,so long as
+53570,so that
+53574,so-called
+53577,so... that
+53581,soak
+53586,soap
+53592,sob
+53594,sober
+53598,soccer
+53600,social
+53608,socialism
+53609,socialist
+53617,society
+53618,society people
+53624,sock
+53634,sofa
+53635,soft
+53646,software
+53653,soil
+53658,solar
+53665,soldier
+53667,sole
+53670,solemn
+53672,solemn promise
+53682,solid
+53701,solution
+53705,solve
+53712,some
+53716,somebody
+53719,somehow
+53721,someone
+53724,something
+53725,something like
+53726,something of
+53730,sometimes
+53731,somewhat
+53732,somewhere
+53736,son
+53740,song
+53747,soon
+53749,sooner or later
+53759,sophisticated
+53769,sore
+53771,sore throat
+53776,sorrow
+53778,sorry
+53779,sort
+53784,sort of
+53797,soul
+53799,sound
+53821,soup
+53823,sour
+53827,source
+53835,south
+53839,southeast
+53843,southern
+53848,southwest
+53856,sow
+53864,space
+53878,spacecraft
+53889,span
+53896,spare
+53908,spark
+53909,sparkle
+53926,speak
+53937,speak out
+53941,speaker
+53944,spear
+53946,special
+53954,specialist
+53955,speciality
+53957,specialize
+53963,species
+53964,specific
+53965,specifically
+53970,specify
+53977,spectacle
+53979,spectacular
+53989,speculate
+53996,speech
+54005,speed
+54007,speed up
+54017,spell
+54022,spelling
+54025,spend
+54038,sphere
+54048,spider
+54053,spill
+54055,spin
+54078,spirit
+54085,spit
+54096,splendid
+54105,split
+54113,spoil
+54124,sponge
+54127,sponsor
+54131,spontaneous
+54136,spoon
+54143,sport
+54161,sportsman
+54168,spot
+54184,spray
+54186,spread
+54189,spread out
+54197,spring
+54210,sprinkle
+54222,spur
+54229,spy
+54241,square
+54263,squeeze
+54275,squirrel
+54279,stab
+54289,stable
+54292,stack
+54298,staff
+54301,stage
+54304,stagger
+54312,stain
+54315,stair
+54319,stake
+54323,stale
+54335,stamp
+54343,stand
+54350,stand alone
+54353,stand by
+54356,stand for
+54369,stand out
+54370,stand up
+54371,stand up for
+54373,stand up to
+54377,standard
+54395,standpoint
+54405,star
+54414,stare
+54424,start
+54433,start off
+54441,start with
+54448,startle
+54453,starve
+54459,state
+54466,statement
+54473,static
+54477,station
+54486,statistic
+54491,statue
+54494,status
+54502,stay
+54507,stay away
+54514,stay up
+54516,stay with...
+54522,steady
+54524,steak
+54526,steal
+54541,steel
+54547,steep
+54550,steer
+54557,stem
+54566,step
+54568,step by step
+54602,stern
+54611,steward
+54615,stick
+54640,sticky
+54644,stiff
+54654,still
+54660,stimulate
+54665,sting
+54676,stir
+54685,stock
+54719,stocking
+54733,stomach
+54739,stone
+54747,stool
+54748,stoop
+54749,stop
+54775,storage
+54777,store
+54790,storm
+54792,story
+54801,stove
+54808,straight
+54820,strain
+54828,strange
+54831,stranger
+54834,strap
+54837,strategic
+54840,strategy
+54845,straw
+54846,strawberry
+54850,stream
+54853,street
+54861,strength
+54862,strengthen
+54869,stress
+54872,stretch
+54896,strike
+54897,strike a balance
+54899,strike down
+54905,striking
+54906,string
+54912,strip
+54928,stroke
+54935,strong
+54946,structural
+54947,structure
+54950,struggle
+54970,student
+54975,studio
+54978,study
+54984,stuff
+54990,stumble
+55003,stupid
+55010,style
+55047,subject
+55066,submarine
+55068,submerge
+55075,submit
+55078,submit to
+55097,subsequent
+55113,substance
+55115,substantial
+55120,substitute
+55136,subtract
+55141,suburb
+55150,subway
+55158,success
+55160,successful
+55162,succession
+55163,successive
+55165,successor
+55172,such
+55175,such as
+55180,suck
+55187,sudden
+55193,suffer
+55209,sufficient
+55216,sugar
+55220,suggest
+55222,suggestion
+55225,suicide
+55227,suit
+55230,suitable
+55248,sulphur
+55252,sum
+55258,summarize
+55262,summer
+55275,sun
+55303,sunlight
+55304,sunny
+55305,sunrise
+55308,sunset
+55309,sunshine
+55314,super
+55326,superficial
+55335,superior
+55341,supermarket
+55365,supper
+55369,supplement
+55378,supply
+55379,supply a gap
+55380,supply the demand
+55382,support
+55392,suppose
+55403,supreme
+55406,sure
+55413,surface
+55424,surgeon
+55425,surgery
+55431,surname
+55433,surplus
+55436,surprise
+55443,surrender
+55448,surround
+55449,surrounding
+55452,survey
+55455,survival
+55457,survive
+55466,suspect
+55469,suspend
+55483,sustain
+55494,swallow
+55497,swamp
+55498,swan
+55503,swarm
+55509,sway
+55510,swear
+55514,sweat
+55517,sweater
+55522,sweep
+55534,sweet
+55550,swell
+55555,swift
+55562,swim
+55575,swing
+55581,switch
+55610,symbol
+55621,sympathetic
+55624,sympathize
+55627,sympathy
+55665,synthetic
+55671,system
+55680,systematic
+55697,table
+55713,tablet
+55728,tackle
+55745,tag
+55750,tail
+55754,tailor
+55764,take
+55829,take advantage of
+55831,take after
+55854,take care
+55856,take care of
+55860,take charge of
+55865,take down
+55872,take for
+55876,take heart
+55881,take in
+55887,take into account
+55905,take off
+55909,take office
+55910,take on
+55933,take over
+55937,take part in
+56024,take up
+56027,take up arms
+56068,tale
+56071,talent
+56075,talk
+56077,talk back
+56081,talk into
+56098,tall
+56114,tan
+56125,tank
+56135,tap
+56138,tape
+56156,target
+56173,task
+56177,taste
+56199,tax
+56212,taxi
+56223,tea
+56229,teach
+56234,teacher
+56238,teaching
+56243,team
+56250,tear
+56267,technical
+56272,technician
+56273,technique
+56276,technological
+56280,technology
+56286,tedious
+56296,teenager
+56313,telegram
+56314,telegraph
+56323,telephone
+56337,telescope
+56341,television
+56348,tell
+56372,temper
+56378,temperature
+56383,temple
+56388,temporary
+56390,tempt
+56391,temptation
+56394,ten
+56396,ten thousand
+56405,tenant
+56406,tend
+56410,tendency
+56412,tender
+56423,tennis
+56434,tense
+56437,tension
+56438,tent
+56443,tenth
+56449,term
+56453,terminal
+56475,terrible
+56483,territory
+56484,terror
+56494,test
+56517,text
+56521,textile
+56528,than
+56531,thank
+56544,that
+56558,the
+56710,the United Kingdom
+56711,the United Nations
+56750,the face of
+56763,the height
+56778,the length and breadth of
+56782,the limited resources
+56786,the living standard
+56794,the moment
+56810,the original plan
+56812,the other day
+56832,the pride of
+56874,the victims of the earthquake
+56886,theatre
+56891,their
+56892,theirs
+56895,them
+56900,themselves
+56901,then
+56910,theoretical
+56913,theory
+56919,there
+56931,thereby
+56933,therefore
+56948,thermometer
+56955,these
+56961,they
+56966,thick
+56972,thief
+56976,thin
+56979,thing
+56980,think
+56987,think better of
+56992,think little of
+56993,think nothing of
+57001,think over
+57010,thinking
+57013,third
+57017,thirst
+57019,thirsty
+57020,thirteen
+57023,thirty
+57028,this
+57041,thorn
+57044,thorough
+57048,those
+57050,though
+57051,thought
+57053,thoughtful
+57058,thousand
+57067,thread
+57069,threat
+57075,three
+57076,three meals a day
+57093,thrill
+57097,thrive
+57099,throat
+57107,throne
+57108,throng
+57110,through
+57114,throughout
+57117,throw
+57152,thrust
+57155,thumb
+57162,thunder
+57168,thus
+57169,thus far
+57177,tick
+57183,ticket
+57193,tide
+57198,tidy
+57201,tie
+57211,tiger
+57213,tight
+57229,till
+57235,timber
+57237,time
+57261,timid
+57266,tin
+57283,tiny
+57285,tip
+57297,tire
+57300,tired
+57307,tissue
+57318,title
+57324,to
+57334,to a hair
+57349,to be concerned with
+57418,to date
+57601,to that effect
+57606,to the contrary
+57607,to the core
+57614,to the letter
+57615,to the life
+57616,to the minute
+57617,to the moment
+57620,to the point
+57622,to the satisfaction of
+57638,toast
+57640,tobacco
+57646,today
+57649,toe
+57656,together
+57660,toilet
+57667,tolerance
+57669,tolerate
+57674,tomato
+57676,tomb
+57681,tomorrow
+57684,ton
+57687,tone
+57695,tongue
+57699,tonight
+57707,too
+57711,too much
+57717,tool
+57724,tooth
+57732,top
+57741,topic
+57750,torch
+57764,torrent
+57773,torture
+57775,toss
+57781,total
+57790,touch
+57804,tough
+57807,tour
+57812,tourist
+57828,towards
+57831,towel
+57832,tower
+57835,town
+57850,toy
+57854,trace
+57864,track
+57879,tractor
+57880,trade
+57892,tradition
+57898,traffic
+57909,tragedy
+57911,trail
+57915,train
+57919,training
+57926,traitor
+57928,tram
+57931,tramp
+57957,transfer
+57965,transform
+57984,translate
+57988,translation
+57996,transmit
+58002,transparent
+58008,transport
+58010,transportation
+58017,trap
+58032,travel
+58055,tray
+58063,treason
+58066,treasure
+58071,treat
+58078,treatment
+58079,treaty
+58081,tree
+58094,tremble
+58096,tremendous
+58104,trend
+58112,trial
+58113,trial and error
+58114,triangle
+58120,tribe
+58127,trick
+58138,trifle
+58144,trim
+58147,trimmed
+58153,trip
+58167,triumph
+58183,troop
+58190,tropical
+58196,trouble
+58207,trousers
+58215,truck
+58222,true
+58225,truly
+58228,trumpet
+58232,trunk
+58234,trust
+58244,truth
+58247,try
+58248,try on
+58254,try out
+58265,tub
+58268,tube
+58272,tuck
+58283,tuition
+58298,tune
+58307,tunnel
+58312,turbine
+58322,turn
+58335,turn down
+58337,turn in
+58339,turn into
+58343,turn on
+58348,turn out
+58352,turn over
+58381,turnip
+58398,tutor
+58407,twelfth
+58408,twelve
+58410,twentieth
+58411,twenty
+58423,twice
+58427,twin
+58430,twinkle
+58435,twist
+58441,two
+58442,two thousand three hundred
+58450,type
+58455,typewriter
+58457,typhoon
+58458,typical
+58463,typist
+58470,tyranny
+58471,tyrant
+58472,tyre
+58488,ultimate
+58489,ultimately
+58500,umbrella
+58508,unable
+58546,unbearable
+58581,uncle
+58587,uncomfortable
+58614,uncover
+58633,under
+58636,under (in) the circumstances
+58641,under arms
+58644,under construction
+58645,under control
+58673,under the influence of
+58674,under the leadership of
+58676,under the pressure of
+58681,under the terms of
+58690,undercharged
+58703,undergo
+58705,undergraduate
+58706,underground
+58709,underground water
+58723,underneath
+58737,understand
+58741,understanding
+58746,undertake
+58767,undo
+58771,undoubtedly
+58784,uneasy
+58803,unexpected
+58810,unfair treatment
+58832,unfortunate
+58833,unfortunately
+58848,unhappy
+58862,uniform
+58889,union
+58892,unique
+58898,unit
+58900,unite
+58903,unity
+58904,universal
+58907,universe
+58908,university
+58911,unjust
+58918,unknown
+58925,unless
+58929,unlike
+58934,unload
+58954,unnecessary
+59081,until
+59097,unusual
+59126,up
+59130,up and down
+59135,up in arms
+59139,up to date
+59140,up to much
+59173,upon
+59175,upper
+59177,upper class
+59178,upper lip
+59188,upright
+59196,upset
+59201,upside-down
+59204,upstairs
+59215,upward
+59227,urge
+59231,urgent
+59240,us
+59242,usage
+59246,use
+59249,use up
+59250,used
+59258,useful
+59261,useless
+59264,user
+59274,usual
+59275,usually
+59288,utility
+59290,utilize
+59292,utmost
+59295,utter
+59304,vacant
+59314,vacuum
+59321,vague
+59328,vain
+59336,valentine
+59341,valid
+59344,valley
+59348,valuable
+59352,value
+59362,van
+59376,vanity
+59381,vapor
+59387,variable
+59392,variation
+59396,variety
+59399,various
+59400,various people
+59403,vary
+59406,vase
+59408,vast
+59414,vault
+59429,vegetable
+59437,vehicle
+59439,veil
+59445,velvet
+59474,venture
+59483,verb
+59500,verify
+59517,version
+59520,versus
+59523,vertical
+59539,very
+59545,vessel
+59546,vest
+59560,via
+59570,vibrate
+59577,vice
+59593,victim
+59597,victorious
+59599,victory
+59602,video
+59641,view
+59647,viewpoint
+59654,vigorous
+59656,vigour
+59660,village
+59670,vine
+59671,vinegar
+59677,violate
+59679,violence
+59680,violent
+59682,violet
+59683,violin
+59696,virtual
+59702,virtually
+59703,virtue
+59710,virus
+59722,visible
+59726,vision
+59728,visit
+59733,visitor
+59736,visual
+59746,vital
+59751,vitamin
+59766,vivid
+59772,vocabulary
+59788,voice
+59801,volcano
+59809,volt
+59813,volume
+59816,voluntary
+59826,vote
+59839,voyage
+59863,wage
+59872,waist
+59875,wait
+59883,waiter
+59890,wake
+59902,walk
+59921,wall
+59924,wallet
+59933,wander
+59939,want
+59942,want for
+59948,war
+59951,war preparation
+59968,warm
+59981,warmth
+59982,warn
+60006,wash
+60037,waste
+60050,watch
+60073,water
+60099,waterproof
+60106,wave
+60123,wax
+60126,way
+60133,we
+60138,weak
+60139,weaken
+60141,weakness
+60142,wealth
+60143,wealthy
+60145,weapon
+60154,wear out
+60160,weary
+60163,weather
+60169,weave
+60180,wedding
+60187,weed
+60189,week
+60192,weekend
+60193,weekly
+60196,weigh
+60203,weight
+60212,welcome
+60214,weld
+60216,welfare
+60220,well
+60223,well founded
+60246,well-known
+60267,west
+60268,western
+60272,westward
+60274,wet
+60284,what
+60310,whatever
+60314,wheat
+60316,wheel
+60322,when
+60326,whenever
+60327,where
+60341,wherever
+60345,whether
+60349,which
+60350,whichever
+60352,while
+60362,whip
+60365,whirl
+60372,whisky
+60373,whisper
+60375,whistle
+60377,white
+60398,who
+60401,whoever
+60402,whole
+60410,wholly
+60411,whom
+60418,whose
+60419,why
+60423,wicked
+60427,wide
+60432,widen
+60436,widespread
+60438,widow
+60440,width
+60442,wife
+60448,wild
+60463,will
+60467,willing
+60477,win
+60489,wind
+60499,window
+60518,wine
+60521,wing
+60530,winner
+60535,winter
+60538,wipe
+60540,wire
+60547,wisdom
+60548,wise
+60550,wish
+60558,wit
+60562,with
+60575,with confidence
+60576,with ease
+60577,with enthusiasm
+60582,with great speed
+60590,with patience
+60597,with satisfaction
+60603,with the exception of
+60604,with the help of
+60608,withdraw
+60619,within
+60626,without
+60634,without mercy
+60637,without protest
+60641,withstand
+60643,witness
+60657,wolf
+60658,woman
+60669,wonder
+60674,wonderful
+60682,wood
+60689,wooden
+60699,wool
+60701,woollen
+60704,word
+60720,work
+60745,work out
+60751,work up
+60764,worker
+60783,works
+60786,workshop
+60789,world
+60793,world-wide
+60797,worm
+60805,worry
+60811,worse
+60814,worship
+60817,worst
+60819,worth
+60822,worthless
+60823,worthwhile
+60825,worthy
+60828,would
+60842,wound
+60851,wrap
+60863,wreath
+60865,wreck
+60881,wrinkle
+60883,wrist
+60887,write
+60899,writing
+60907,wrong
+60918,x-ray
+60935,yard
+60940,yawn
+60943,year
+60950,yearly
+60956,yell
+60959,yellow
+60963,yes
+60964,yesterday
+60966,yet
+60969,yield
+60991,you
+61001,young
+61006,youngster
+61007,your
+61008,yours
+61011,yourself
+61013,youth
+61018,youthful
+61032,zeal
+61034,zealous
+61035,zebra
+61040,zero
+61062,zone
+61063,zoo
